@@ -12,6 +12,7 @@ namespace ProjectName
     /// </summary>
     class background
     {
+        
          private static int Width=Game1.Width, Heigth=Game1.Height;
          public static Texture2D Nebula {get; set;}
          public static Texture2D StarField {get; set;}

@@ -12,6 +12,7 @@ using Microsoft.Xna.Framework.Media;
 
 namespace ProjectName
 {   
+    
     /// <summary>
     /// Дополнения для коллекций
     /// </summary>

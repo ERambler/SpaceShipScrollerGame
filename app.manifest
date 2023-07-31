@@ -15,6 +15,7 @@
            is designed to work with. Uncomment the appropriate elements and Windows will 
            automatically selected the most compatible environment. -->
 
+
       <!-- Windows Vista -->
       <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />
 
