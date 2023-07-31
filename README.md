@@ -22,6 +22,6 @@ There is also control from a GAMEPAD connected to the operating system (MonoGame
 
 To compile the project it is necessary to download MonoGame to the project via NuGet.
 
-Also compiled last version of this game for Windows with Net Framework 3.1 here: 
+Also compiled last version of this game for Windows x64: 
 
 https://disk.yandex.ru/d/DTir-tg9-YEBVw 
