@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Blue Nebula 1 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Blue Nebula 3 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Blue Nebula 8 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Green Nebula 2 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Green Nebula 5 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Purple Nebula 1 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Purple Nebula 2 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Purple Nebula 3 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Purple Nebula 4 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Purple Nebula 5 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Purple Nebula 6 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/background/Purple Nebula 7 - 1024x1024.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/bullet_collisions.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/bullet.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/EnemyShip.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/exposion.wav</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/FallingSky.mp3</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/gamepad_info.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/hit.wav</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/interface/border.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/interface/fill.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/interface/i_ammo.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/interface/i_health.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/interface/i_overheat.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/letters.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/muzzle_flame_1v.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/Pixel.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/shoot.wav</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/spaceship.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/Star.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/texts/control_inscription.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/texts/digits.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/texts/gameover.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/texts/menu.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/texts/paused.png</File>
+    <File>/home/erambler/Projects/Labs/C#_experiments/MonoGame/ProjectName/Content/throttleflame.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Blue_Nebula_1</File>
+    <File>Blue_Nebula_3</File>
+    <File>Blue_Nebula_8</File>
+    <File>background/Green_Nebula_2</File>
+    <File>background/Green_Nebula_5</File>
+    <File>Purple_Nebula_1</File>
+    <File>Purple_Nebula_2</File>
+    <File>Purple_Nebula_3</File>
+    <File>Purple_Nebula_4</File>
+    <File>Purple_Nebula_5</File>
+    <File>Purple_Nebula_6</File>
+    <File>Purple_Nebula_7</File>
+    <File>bullet_collisions</File>
+    <File>bullet</File>
+    <File>enemyship</File>
+    <File>exposion</File>
+    <File>FallingSky</File>
+    <File>gamepadInformation</File>
+    <File>hit</File>
+    <File>i_border</File>
+    <File>i_fill</File>
+    <File>i_ammo</File>
+    <File>i_health</File>
+    <File>i_overhead</File>
+    <File>texts/letters.png</File>
+    <File>muzzle_fire</File>
+    <File>pixel</File>
+    <File>shoot</File>
+    <File>SpaceShip</File>
+    <File>Star</File>
+    <File>control_inscription</File>
+    <File>texts/digits</File>
+    <File>texts/gameover</File>
+    <File>texts/mainmenu</File>
+    <File>texts/paused</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
